@@ -13,7 +13,7 @@ This is a simple web project, deployment can be
 on any web server or even local file system.
 
 ## How To Contribute
-Agovino, Let's work on that!
+Please fork this repository and the issue Pull Requests for review.
 
 ### Copyright
 2017 Git.Training.
