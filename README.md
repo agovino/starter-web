@@ -15,3 +15,5 @@ on any web server or even local file system.
 ## How To Contribute
 Agovino, Let's work on that!
 
+### Copyright
+2017 Git.Training.
