@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marco Agovino marco@agovino.ch
 
 # THANKS
 
