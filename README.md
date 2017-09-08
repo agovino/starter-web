@@ -17,4 +17,4 @@ on any web server or even local file system.
 Please fork this repository and the issue Pull Requests for review.
 
 ### Copyright
-2017 Git.Training.
+2017 Git.Training. All rights reserved.
